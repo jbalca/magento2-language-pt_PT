@@ -5,5 +5,6 @@ Installation
 ------------
 
 ```sh
+composer config repositories.language-pt_PT git https://github.com/jbalca/magento2-language-pt_PT
 composer require jbalca/magento2-language-pt_PT
 ```
