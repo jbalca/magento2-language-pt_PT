@@ -1,0 +1,11 @@
+{
+    "name": "jbalca/language-pt_PT",
+    "description": "Portuguese language pack for Magento 2",
+    "type": "magento2-language",
+    "license": [
+        "CC-BY-SA-4.0"
+    ],
+    "autoload": {
+        "files": ["registration.php"]
+    }
+}
